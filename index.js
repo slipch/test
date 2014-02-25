@@ -17,3 +17,4 @@ return pathData.map[pathIndex];
 }
 
 
+exports.version = '0.0.2';
